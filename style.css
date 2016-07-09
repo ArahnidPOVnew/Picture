@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+table tr{
+	border:20px;
+	border-color:black;
+}
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+    width: 800px;
+    height: 800PX;
+}
+ td {
+ 	border: 10px solid #000;
+  }
