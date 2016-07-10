@@ -18,3 +18,28 @@ table {
   #f1{
 border-bottom:10px solid #FFE659;
   }
+   #f2{
+border-bottom:10px solid  #FFFFFF;
+  }
+  #f3{
+border-bottom:10px solid  #FFFFFF;
+  }
+  #f4{
+  	left: 767px;
+  	top: 350px;
+  	position: absolute;
+    border:1px solid black;
+    width: 8px;
+    height:10px;
+    background-color: black;
+  }
+  #f5{
+  	position: absolute;
+  	margin-left: 767px;
+  	margin-top: 175px;
+  	border:1px solid black;
+    width: 8px;
+    height:10px;
+    background-color: black;
+  }
+
