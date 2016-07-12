@@ -11,11 +11,13 @@ table {
 	border-collapse: collapse;
     width: 800px;
     height: 800PX;
+
 }
  td {
  	border: 10px solid #000;
   }
   #f1{
+    background-color: #FFE659;
 border-bottom:10px solid #FFE659;
   }
    #f2{
@@ -24,22 +26,35 @@ border-bottom:10px solid  #FFFFFF;
   #f3{
 border-bottom:10px solid  #FFFFFF;
   }
-  #f4{
-  	left: 767px;
-  	top: 350px;
-  	position: absolute;
-    border:1px solid black;
-    width: 8px;
-    height:10px;
-    background-color: black;
+  
+  #f6{
+    background-color: #FF6247;
   }
-  #f5{
-  	position: absolute;
-  	margin-left: 767px;
-  	margin-top: 175px;
-  	border:1px solid black;
-    width: 8px;
-    height:10px;
-    background-color: black;
+  #f7{
+    background-color: #FFE659;
+  }
+  #f8{
+    background-color: #FFE659;
+  }
+  #f9{
+    background-color: #FFE659;
+  }
+  #f10{
+    background-color: #181818;
+  }
+  #f11{
+    background-color: #181818;
+  }
+  #f12{
+    background-color: #181818;
+  }
+  #f13{
+    background-color: #181818;
+  }
+  #f14{
+    background-color: #023E7C;
+  }
+  #f15{
+    background-color: #181818;
   }
 
